@@ -8,4 +8,7 @@ Loan Handling: Improve the process of borrowing and returning books.
 Book Organization: Tools to organize and maintain the library's book inventory.
 Quick Access: Ensure fast and easy access to essential information.
 
-You can customize the sections according to your specific project requirements. If you need further customization or additional sections, feel free to let me know!
+## About Me
+You can find more of my projects on GitHub.
+
+Thank you for checking out my project!
