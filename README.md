@@ -14,7 +14,7 @@ With robust tools for organizing and maintaining the library's book inventory, o
 
 ## ✨ Requirements
 
-- Java Development Kit (JDK) 11 or higher
+- Java Development Kit (JDK) 8.1 or higher.
 - Git
 
 <hr>
